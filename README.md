@@ -5,10 +5,10 @@ This project focuses on implementing a neural network-based solution for a seque
 # Requirements
 Before running the project, ensure that you have the following installed:
 
-Python 3.9\\
-PyTorch\\
-NumPy\\
-Matplotlib\\
+Python 3.9<br />
+PyTorch<br />
+NumPy<br />
+Matplotlib<br />
 Other dependencies (listed in requirements.txt)
 
 # Installation
