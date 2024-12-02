@@ -5,10 +5,10 @@ This project focuses on implementing a neural network-based solution for a seque
 # Requirements
 Before running the project, ensure that you have the following installed:
 
-Python 3.9
-PyTorch
-NumPy
-Matplotlib
+Python 3.9\\
+PyTorch\\
+NumPy\\
+Matplotlib\\
 Other dependencies (listed in requirements.txt)
 
 # Installation
@@ -21,6 +21,7 @@ pip install -r requirements.txt
 # Code Structure
 The project structure is organized as follows:
 
+```latex
 .
 ├── src
 │   ├── data_preprocessing.py     # Functions for preprocessing data (e.g., `char_num_map`, `deal_base`)
@@ -34,6 +35,7 @@ The project structure is organized as follows:
 │   └── error.txt                 # Example input data for evaluation
 ├── requirements.txt              # Python dependencies
 └── README.md                     # Project documentation
+```
 
 # Contributing
 Feel free to fork the repository and create a pull request. Ensure that you follow the project’s coding style and write tests for any new functionality you add.
